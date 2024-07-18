@@ -1,9 +1,13 @@
 # A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL
+Here's the updated GitHub README including the additional steps for verifying and activating the Salesforce Developer Account:
+
+---
+
 # Salesforce Developer Account Creation
 
-This project outlines the steps taken to create a Salesforce Developer Account. The steps were completed successfully, and screenshots are provided for verification.
+This project outlines the steps taken to create and activate a Salesforce Developer Account. The steps were completed successfully, and screenshots are provided for verification.
 
-## Steps to Create a Developer Account
+## Steps to Create and Activate a Developer Account
 
 1. **Visit the Salesforce Developer Signup Page**
    - Go to [Salesforce Developer Signup](https://developer.salesforce.com/signup).
@@ -21,6 +25,20 @@ This project outlines the steps taken to create a Salesforce Developer Account. 
    
 3. **Submit the Form**
    - Click on the "Sign me up" button after filling in the details.
+
+4. **Verify Your Account**
+   - Go to the inbox of the email used while signing up. 
+   - Look for an email from Salesforce (it may take 5-10 minutes to arrive).
+   - Click on the "Verify Account" link in the email.
+
+5. **Set Up Your Password**
+   - After clicking the "Verify Account" link, you will be redirected to a page to set your password.
+   - Create a password and answer a security question.
+   - Click on "Change Password".
+
+6. **Access Salesforce Setup Page**
+   - You will be redirected to your Salesforce setup page upon successful password creation.
+
 
 ## Screenshots
 ![Screenshot 2024-07-18 222811](https://github.com/user-attachments/assets/b8da262d-27b5-4b13-ad7e-95b7ef3d3c68)
